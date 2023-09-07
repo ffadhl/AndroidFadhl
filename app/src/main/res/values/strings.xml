@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">AndroidFadhl</string>
+
+    <string name="players_name">Nama Pemain</string>
+    <string name="description">Deskripsi</string>
+    <string name="about">About</string>
+    <string name="name">Fadhl Al-Hafizh</string>
+    <string name="bangkitemail">a283bsy2466@bangkit.academy</string>
+
+    <string-array name="data_name">
+        <item>Thibaut Courtois</item>
+        <item>Dani Carvajal</item>
+        <item>David Alaba</item>
+        <item>Antonio Rüdiger</item>
+        <item>Fran García</item>
+        <item>Toni Kroos</item>
+        <item>Luka Modrić</item>
+        <item>Federico Valverde</item>
+        <item>Jude Bellingham</item>
+        <item>Vinícius Júnior</item>
+        <item>Rodrygo Goes</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Thibaut Nicolas Marc Courtois lahir 11 Mei 1992 adalah seorang pemain sepak bola asal Belgia yang bermain sebagai penjaga gawang untuk klub Real Madrid dan tim nasional Belgia.</item>
+        <item>Daniel "Dani" Carvajal Ramos lahir 11 Januari 1992 adalah seorang pemain sepak bola Spanyol yang saat ini bermain untuk Real Madrid sebagai bek kanan.</item>
+        <item>David Olatukunbo Alaba lahir 24 Juni 1992 adalah seorang pemain sepak bola profesional Austria yang bermain untuk klub La Liga, Real Madrid dan tim nasional Austria.</item>
+        <item>Antonio Rüdiger lahir 3 Maret 1993 adalah seorang pemain sepak bola profesional asal Jerman yang bermain sebagai bek tengah untuk klub La Liga Real Madrid dan tim nasional Jerman.</item>
+        <item>Francisco García Verona, yang dikenal sebagai Fran García, lahir 14 Agustus 1999 adalah pemain sepak bola profesional Spanyol yang bermain sebagai bek kiri untuk Real Madrid.</item>
+        <item>Toni Kroos lahir 4 Januari 1990 merupakan seorang pemain sepak bola berkebangsaan Jerman, yang berposisi sebagai gelandang tengah. Saat ini ia bermain untuk Real Madrid C.F. Sebelumnya ia adalah mantan pemain FC Bayern Munchen.</item>
+        <item>Luka Modrić lahir 9 September 1985 adalah pemain sepak bola profesional berkebangsaan Kroasia yang bermain sebagai gelandang untuk Real Madrid di La Liga Spanyol dan tim nasional Kroasia.</item>
+        <item>Federico Santiago Valverde Dipetta lahir 22 Juli 1998 adalah pemain sepak bola profesional Uruguay yang bermain sebagai gelandang tengah untuk klub Spanyol, Real Madrid dan tim nasional Uruguay.</item>
+        <item>Jude Victor William Bellingham lahir 29 Juni 2003 adalah pemain sepak bola profesional Inggris yang bermain sebagai gelandang untuk klub La Liga Real Madrid dan tim nasional Inggris.</item>
+        <item>Vinícius José de Oliveira Júnior, umumnya dikenal sebagai Vinícius Júnior atau Vinícius, lahir 12 Juli 2000 adalah pemain sepak bola profesional Brasil yang bermain sebagai penyerang untuk klub La Liga Real Madrid dan tim nasional Brasil.</item>
+        <item>Rodrygo Silva de goes lahir 9 Januari 2001, atau dikenal sebagai Rodrygo saja, adalah pemain sepak bola profesional asal Brasil yang bermain sebagai gelandang sayap untuk klub Spanyol Real Madrid dan tim nasional Brasil.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/courtois</item>
+        <item>@drawable/carvajal</item>
+        <item>@drawable/alaba</item>
+        <item>@drawable/rudiger</item>
+        <item>@drawable/fran</item>
+        <item>@drawable/kroos</item>
+        <item>@drawable/modric</item>
+        <item>@drawable/valverde</item>
+        <item>@drawable/jude</item>
+        <item>@drawable/vini</item>
+        <item>@drawable/rodrygo</item>
+    </integer-array>
+
+    <integer name="pembuatFoto">@drawable/fadhl</integer>
+    <integer name="background">@drawable/background</integer>
+    <integer name="background2">@drawable/santiago</integer>
+
+</resources>
